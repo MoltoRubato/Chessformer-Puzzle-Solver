@@ -40,4 +40,13 @@ Solution
         Number of nodes expanded per second.
         Total search time, in seconds.
 
+Tools used  
+- C  
+
+Contributors
+- Kerui Huang
+- University of Melbourne COMP20003 Teaching Team (Skeleton Code and AI solver concept Provider)
+- Sokoban made available by CorrentinB (Base game provider)
+
+This project is for academic purposes under the University of Melbourne's COMP20003 course.
 
