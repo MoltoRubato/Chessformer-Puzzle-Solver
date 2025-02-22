@@ -1,6 +1,4 @@
-# Deadlock and Optimizations
-
-Chessformer Puzzle Solver
+# Chessformer Puzzle Solver and Optimizations
 
 This project implements a solver for "Chessformer" puzzles.
 The solution use an optimized version of a search algorithm to find the shortest path from the initial state to the goal. 
